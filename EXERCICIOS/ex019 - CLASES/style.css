@@ -1,0 +1,51 @@
+@charset "UTF-8";
+@font-face {
+    font-family:ffdinha;
+    src: url(fonts/FrederickatheGreat-Regular.ttf);
+}
+@font-face {
+    font-family:f2dinha;
+    src: url(fonts/GreatVibes-Regular.ttf);
+}
+
+body{
+    background-color: rgb(237, 181, 111);
+}
+
+#M1{
+    background-color: rgb(111, 156, 154); 
+    border-radius: 15px;  
+    margin: auto;
+}
+
+#M2{
+    background-color: rgb(191, 236, 234);
+    border-radius: 15px;  
+}
+
+#H1P{
+    background-color: rgb(58, 222, 222);
+    color: blueviolet;
+    text-align: center;
+    font-family: f2dinha;
+    font-size: 60px;
+    
+
+}
+
+h1{
+    color: rgb(19, 41, 106);
+    font-family:ffdinha;    
+}
+
+.basico{
+    color: rgb(77, 200, 77);
+}
+
+.medio{
+    color: rgb(232, 232, 69);
+}
+
+.fudido{
+    color: rgb(243, 38, 38);
+}
